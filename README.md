@@ -1,46 +1,58 @@
-## Hi there 👋
+# Mahmoud Sabry | AI/ML Engineer
 
-
-
-# About Me
-**Currently Working On**  
-• LLM-powered agents & Retrieval-Augmented Generation (RAG) applications  
-
-**Open to Collaborate On**  
-• Open-source AI/ML tools and frameworks  
-
-**Seeking Assistance With**  
-• Optimizing LLM pipelines for performance, scalability, and cost-efficiency  
-
-**Currently Learning**  
-• Advanced time series forecasting techniques  
-• Cloud-based MLOps platforms (AWS SageMaker, Azure ML Studio)  
-
-**Ask Me About**  
-• NLP model deployment, evaluation, and optimization  
+**Specializing in NLP, LLM Applications, and Scalable AI Solutions**  
+*Building intelligent systems at the intersection of language models and efficient deployment*
 
 ---
 
-## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/mahmoudsabrygamal/)  
+## Professional Profile
+
+### 🔭 Current Focus
+- Developing LLM-powered agents and Retrieval-Augmented Generation (RAG) systems
+- Designing production-ready NLP pipelines for enterprise applications
+
+### 🤝 Collaboration Interests
+- Open-source AI/ML tooling and framework development
+- Cross-disciplinary projects involving NLP and cloud deployment
+
+### 🚀 Technical Exploration
+- Optimizing LLM workflows for performance, scalability, and cost-efficiency
+- Advanced time series forecasting methodologies
+- Cloud MLOps platforms (AWS SageMaker, Azure ML Studio)
+
+### 💬 Expertise Areas
+- NLP model deployment strategies
+- Model evaluation and optimization techniques
+- End-to-end machine learning system architecture
 
 ---
 
-## Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+## Technical Proficiencies
+
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+#### Data & Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ---
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mahmoudsabry3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=mahmoudsabry3&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsabry3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GitHub Analytics
+
+| Development Activity | Language Distribution |
+|----------------------|-----------------------|
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudsabry3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/mahmoudsabry3) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsabry3&theme=dark&hide_border=true&layout=compact&langs_count=8)](https://github.com/mahmoudsabry3) |
+
+![Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=mahmoudsabry3&theme=dark&hide_border=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mahmoudsabry3&icon=0&color=0)](https://visitcount.itsvg.in)
+## Professional Connect
+[![LinkedIn](https://img.shields.io/badge/Connect_%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoudsabrygamal/)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=mahmoudsabry3&label=Profile%20Views&color=0&icon=6&pretty=true)
