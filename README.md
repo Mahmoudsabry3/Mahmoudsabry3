@@ -54,5 +54,3 @@
 [![LinkedIn](https://img.shields.io/badge/Connect_%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoudsabrygamal/)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=mahmoudsabry3&label=Profile%20Views&color=0&icon=6&pretty=true)
