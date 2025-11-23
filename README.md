@@ -42,11 +42,6 @@ Senior Data Scientist specializing in production machine learning systems, large
 
 ---
 
-## Featured Repositories
-
-
----
-
 ## Areas of Expertise
 
 **Machine Learning Engineering**
