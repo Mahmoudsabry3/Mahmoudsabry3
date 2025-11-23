@@ -44,9 +44,6 @@ Senior Data Scientist specializing in production machine learning systems, large
 
 ## Featured Repositories
 
-### 🚀 Production ML Projects
-
-*Pin your best repositories here with brief technical descriptions focusing on architecture, scale, and engineering decisions*
 
 ---
 
@@ -131,15 +128,7 @@ Senior Data Scientist specializing in production machine learning systems, large
 
 ---
 
-## Technical Writing
 
-*Share links to blog posts, technical articles, or documentation you've written*
-
-- Medium / Dev.to articles on ML best practices
-- Technical documentation contributions
-- Tutorial content for complex ML concepts
-
----
 
 ## Connect
 
