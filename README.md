@@ -1,139 +1,266 @@
-# Mahmoud Sabry | AI/ML Engineer
-**Building Production NLP Systems & LLM-Powered Applications**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudsabrygamal/)
-[![GitHub followers](https://img.shields.io/github/followers/mahmoudsabry3?style=social)](https://github.com/mahmoudsabry3)
-
----
-
-## 👨‍💻 About Me
-
-AI/ML Engineer specializing in Natural Language Processing and Large Language Model applications. I build scalable, production-ready systems that transform how organizations leverage artificial intelligence.
-
-**Current Focus:**
-- 🤖 Developing LLM-powered agents with multi-step reasoning capabilities
-- 🔍 Building enterprise RAG systems for intelligent document processing
-- ⚡ Optimizing model deployment for cost-efficiency and low-latency inference
-- 📊 Implementing end-to-end MLOps pipelines on cloud platforms
-
----
-
-## 🚀 Featured Projects
-
-### [Project Name 1] - Enterprise RAG System
-*Production-ready retrieval-augmented generation for document Q&A*
-- **Stack:** LangChain, Pinecone, FastAPI, Docker
-- **Highlights:** Processes 10K+ documents with 90%+ answer accuracy
-- **Key Feature:** Multi-modal retrieval with semantic chunking
-- 📂 [View Repository](#)
-
-### [Project Name 2] - LLM Agent Framework
-*Multi-agent orchestration system for complex task automation*
-- **Stack:** OpenAI API, LangGraph, Redis, PostgreSQL
-- **Highlights:** Reduced manual processing time by 60%
-- **Key Feature:** Dynamic tool selection and error recovery
-- 📂 [View Repository](#)
-
-### [Project Name 3] - NLP Model Deployment Pipeline
-*End-to-end ML pipeline for model training, evaluation, and deployment*
-- **Stack:** PyTorch, HuggingFace Transformers, AWS SageMaker, MLflow
-- **Highlights:** Automated A/B testing and model versioning
-- **Key Feature:** Real-time model monitoring and retraining triggers
-- 📂 [View Repository](#)
-
-### [Project Name 4] - Time Series Forecasting System
-*Scalable forecasting solution for business metrics prediction*
-- **Stack:** Prophet, LSTM, XGBoost, Streamlit
-- **Highlights:** 85% forecast accuracy on multi-seasonal data
-- **Key Feature:** Automated anomaly detection and alerting
-- 📂 [View Repository](#)
-
----
-
-## 🛠️ Technical Stack
-
-**AI/ML Frameworks**  
-`PyTorch` `TensorFlow` `Scikit-learn` `HuggingFace Transformers` `Keras`
-
-**LLM & NLP Tools**  
-`LangChain` `LlamaIndex` `OpenAI API` `Anthropic Claude` `Prompt Engineering` `RAG Systems`
-
-**MLOps & Deployment**  
-`Docker` `Kubernetes` `AWS SageMaker` `Azure ML Studio` `MLflow` `FastAPI` `Flask`
-
-**Data Engineering**  
-`PostgreSQL` `MySQL` `Redis` `Pinecone` `Weaviate` `Apache Spark` `Pandas`
-
-**Cloud & DevOps**  
-`AWS (EC2, S3, Lambda)` `Azure` `CI/CD` `Git` `Linux`
-
-**Languages**  
-`Python` `R` `C/C++` `SQL` `LaTeX`
-
----
-
-## 📈 GitHub Statistics
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudsabry3&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+# Mahmoud Sabry
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsabry3&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+### Senior Data Scientist & AI Engineer
 
-![Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=mahmoudsabry3&theme=tokyonight&hide_border=true)
+*Building intelligent systems that transform data into business value*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudsabrygamal/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsabryfayed@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudsabry3)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoudsabry3&color=0e75b6&style=flat)
 
 </div>
 
----
+## 🎯 About Me
 
-## 🎯 What I'm Working On
+Senior Data Scientist with **5+ years** of experience delivering production AI solutions across telecommunications, FMCG, and fintech. Specialized in **LLM applications**, **predictive analytics**, and **cloud-scale data pipelines**. **🏆 Unilever DigiChallenge 2024 Winner** with a **90%+ model accuracy track record** across all projects.
+```python
+class MahmoudSabry:
+    def __init__(self):
+        self.role = "Senior Data Scientist"
+        self.location = "Giza, Egypt"
+        self.current_company = "PYGIO"
+        self.languages = ["Arabic (Native)", "English (Fluent)"]
+        
+    def expertise(self):
+        return {
+            "ml_engineering": ["Supervised Learning", "Deep Learning", "Time Series", "NLP"],
+            "llm_applications": ["Prompt Engineering", "Fine-tuning", "RAG Systems", "Chatbots"],
+            "cloud_platforms": ["Azure", "AWS", "Databricks"],
+            "visualization": ["Power BI", "Tableau", "Interactive Dashboards"],
+            "languages": ["Python", "SQL", "C/C++"]
+        }
+    
+    def current_focus(self):
+        return [
+            "Building production LLM applications with advanced prompt engineering",
+            "Optimizing cloud ML pipelines on Azure and AWS platforms",
+            "Developing real-time analytics systems for business intelligence"
+        ]
+    
+    def achievements(self):
+        return {
+            "awards": ["Unilever DigiChallenge 2024 Winner", "Legacy Builders Award"],
+            "accuracy": "90%+ across all ML projects",
+            "certifications": ["Data Analysis", "ML Engineer", "Deep Learning"],
+            "impact": "Optimized millions in promotional spend, automated government processes"
+        }
+```
 
-- 🔬 Experimenting with multi-agent systems for complex workflow automation
-- 📚 Optimizing RAG pipelines for production scale (10M+ documents)
-- ⚡ Building cost-effective LLM inference strategies
-- 🌐 Contributing to open-source AI/ML tooling
+## 💼 Professional Experience
 
----
+**Senior Data Scientist @ PYGIO** *(Nov 2024 - Present)*  
+Leading AI initiatives for tier-1 telecom clients across UAE and South Africa
+- **e& (UAE):** Designed migration strategy from legacy systems using data science to optimize data processing pipelines, achieving 40% improvement in processing efficiency for millions of daily records
+- **Vodacom (South Africa):** Developed API-based data enrichment and validation solutions, enhancing data accuracy to 95%+ for critical telecommunications operations
+
+**Data Scientist @ Unilever (Arabia & North Africa)** *(Feb 2022 - Dec 2024)*  
+Led end-to-end AI model development with 90%+ accuracy across all deliverables
+- Won **Unilever DigiChallenge 2024** for AI Promo Genius, a promotional spend optimization tool using ML and generative AI that revolutionized budget allocation across 50+ product categories
+- Built interactive Power BI dashboards providing real-time actionable insights for executive decision-makers with 90%+ stakeholder satisfaction
+- Received **Legacy Builders Award** for innovative interim solutions enabling timely delivery of critical analytical tools
+- Optimized promotional spending and product effectiveness using machine learning, impacting millions in marketing budget
+
+**Data Scientist @ Alahly Pharos** *(Nov 2021 - Feb 2022)*  
+Applied advanced statistical modeling to Egypt Stock Exchange data
+- Developed predictive models for financial forecasting with high accuracy for trend detection and volatility analysis
+- Delivered data-driven investment recommendations enhancing client portfolio performance
+
+**Freelance Data Analyst @ Upwork** *(Mar 2020 - Jul 2021)*  
+Provided end-to-end data solutions for global clients
+- Developed robust machine learning models for classification and regression tasks with rigorous validation
+- Designed custom business intelligence dashboards for data-driven decision making across multiple industries
+
+## 🚀 Featured Projects
+
+### 🏆 AI Promo Genius - Promotional Spend Optimizer
+**Award-winning ML system for marketing budget optimization**  
+*Winner of Unilever DigiChallenge 2024*
+- **Stack:** Python, Machine Learning, Generative AI, Azure ML
+- **Impact:** Revolutionized promotional budget allocation across 50+ product categories, optimizing millions in marketing spend
+- **Features:** Predictive spend modeling, ROI optimization engine, automated recommendation system using generative AI
+- **Achievement:** Enabled data-driven marketing decisions with measurable ROI improvements
+
+### 📡 E& Data Pipeline Migration System
+**Enterprise-scale cloud architecture for telecommunications**  
+*UAE Telecommunications Leader*
+- **Stack:** Azure, Databricks, Python, SQL, ETL Pipelines
+- **Impact:** Designed scalable migration strategy from legacy systems, improving processing efficiency by 40%
+- **Features:** Optimized data preprocessing workflow, automated data quality validation, performance monitoring
+- **Scale:** Processing pipeline handling millions of telecommunications records daily
+
+### 🤖 WhatsApp Permit Automation Bot
+**Government service automation chatbot**  
+*Military Service Innovation Recognition*
+- **Stack:** Python, WhatsApp API, NLP, Text Processing
+- **Impact:** Streamlined veteran travel permit issuance, reducing processing time from days to minutes
+- **Features:** Natural language processing for request handling, automated form processing, instant permit generation
+- **Achievement:** Automated bureaucratic process for thousands of veterans, earning official recognition
+
+### 📊 Vodacom Data Enrichment Platform
+**API-driven data validation and enhancement system**  
+*South Africa Telecommunications*
+- **Stack:** Python, RESTful APIs, SQL, Cloud Services
+- **Impact:** Enhanced data accuracy to 95%+ across critical telecommunications operations
+- **Features:** Real-time validation via multiple API sources, automated enrichment pipeline, data quality scoring
+- **Achievement:** Significantly improved data reliability for business-critical operations
+
+### 📈 Financial Forecasting System
+**Stock market trend detection and prediction engine**  
+*Egypt Stock Exchange Analysis*
+- **Stack:** Python, Neural Prophet, Time Series Analysis, Statistical Modeling
+- **Impact:** Delivered actionable investment insights with high-accuracy predictions on market trends
+- **Features:** Advanced trend detection algorithms, volatility forecasting, anomaly identification, risk assessment
+- **Achievement:** Provided data-driven recommendations enhancing investment decision-making
+
+### 📊 Executive BI Dashboard Suite
+**Real-time analytics platform for decision support**  
+*Unilever Decision Support System*
+- **Stack:** Power BI, DAX, SQL, Azure, ETL Pipelines
+- **Impact:** Enabled data-driven decisions with 90%+ stakeholder satisfaction in usability surveys
+- **Features:** Interactive visualizations, real-time KPI tracking, executive-level reporting, automated data refresh
+- **Achievement:** Transformed complex data into accessible insights for C-level executives
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Core Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Machine Learning & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Cloud & Infrastructure
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Data & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</div>
+
+**Machine Learning:** Supervised Learning (Regression, Classification) • Unsupervised Learning (Clustering, Dimensionality Reduction) • Time Series Forecasting (ARIMA, Prophet, LSTM) • Ensemble Methods (XGBoost, Random Forest, AutoGluon) • Neural Prophet
+
+**Deep Learning:** Convolutional Neural Networks (CNN) • Recurrent Neural Networks (RNN, LSTM) • Generative Adversarial Networks (GANs) • Transfer Learning • Fine-tuning
+
+**NLP & LLMs:** Prompt Engineering & Optimization • Model Fine-tuning (GPT, BERT, LLMs) • Text Classification • Sentiment Analysis • Named Entity Recognition (NER) • Chatbot Development • Text Summarization
+
+**Data Engineering:** ETL Pipeline Development • Big Data Processing (Apache Spark) • Data Quality & Validation • Web Scraping • API Integration • Data Cleaning
+
+**Analytics & Statistics:** A/B Testing • Hypothesis Testing • Statistical Modeling • Inferential Statistics • Exploratory Data Analysis (EDA) • Advanced Excel
+
+## 🏆 Achievements & Recognition
+
+**🥇 Unilever DigiChallenge 2024 Winner**  
+Developed AI Promo Genius, a promotional spend optimization tool using machine learning and generative AI that revolutionized marketing budget allocation
+
+**🌟 Legacy Builders Award (Unilever)**  
+Recognized for creating innovative interim solutions that enabled timely delivery of critical dashboards and analytical tools for executive decision-makers
+
+**⚙️ Military Service Innovation Recognition**  
+Built WhatsApp chatbot that automated veteran travel permit issuance, streamlining government operations and reducing processing time from days to minutes
+
+**Key Metrics:**
+- ✅ **90%+** Average model accuracy across all production projects
+- ✅ **5+** Years of hands-on production ML experience
+- ✅ **3** Udacity AI Nanodegrees (Data Analysis, ML Engineer, Deep Learning)
+- ✅ **2** Major corporate innovation awards
+- ✅ **Millions** in optimized promotional spend through AI solutions
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudsabry3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsabry3&layout=compact&langs_count=8&theme=tokyonight"/>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mahmoudsabry3&theme=tokyonight&hide_border=false)
+
+</div>
+
+## 🎓 Education & Certifications
+
+**Bachelor of Communication & Electronics Engineering**  
+Al-Azhar University, Egypt | Oct 2014 - Jun 2019
+- Project Manager of Azhar Exhibition, organizing three major student activities
+- Literacy Facilitator at AYB, helping adults improve reading and writing skills
+
+**Professional Certifications:**
+- ✅ **Data Analysis Nanodegree** - Udacity
+- ✅ **Machine Learning Engineer Nanodegree** - Udacity
+- ✅ **Deep Learning Nanodegree** - Udacity
+- ✅ **Egypt Scholars Lab Program** - 12-week scientific research training
+
+## 💡 Core Competencies
+
+**End-to-End ML Development:** Complete lifecycle management from data collection to production deployment • Production-ready model serving and monitoring • Rigorous validation ensuring 90%+ accuracy • Model optimization and performance tuning
+
+**Business Impact & Innovation:** Translating complex data into actionable business insights • Optimizing operational efficiency through AI automation • Award-winning solutions for promotional spend optimization • Executive-level reporting and storytelling with data
+
+**Cloud & Infrastructure:** Scalable data pipeline architecture on Azure, AWS, Databricks • ETL optimization for processing millions of records • Cloud cost optimization and performance tuning • Real-time data processing and streaming analytics
+
+**Data Visualization & BI:** Interactive dashboards in Power BI and Tableau • Executive-level reporting with clear narratives • Real-time analytics for decision support • Automated reporting and monitoring systems
+
+**NLP & LLM Applications:** Building production-ready chatbots and conversational AI • Prompt engineering for optimal LLM performance • Fine-tuning models for domain-specific tasks • Text analysis and sentiment monitoring at scale
 
 ## 🤝 Let's Collaborate
 
 I'm interested in collaborating on:
-- 🔧 Open-source LLM frameworks and evaluation tools
-- 🧪 Novel RAG architectures for domain-specific applications
-- 📊 MLOps best practices and deployment patterns
-- 🎓 Educational content around practical AI/ML implementation
 
-**Have an interesting project?** Feel free to reach out!
+**🔬 Open Source Projects:**
+- LLM evaluation frameworks and observability tools
+- Data pipeline optimization and ETL automation
+- MLOps tooling and best practices
+- Novel approaches to time series forecasting
 
----
+**💼 Consulting & Industry Projects:**
+- Enterprise AI strategy and system design
+- Promotional spend optimization and marketing analytics
+- Cloud-based MLOps architecture
+- Business intelligence dashboard development
+- LLM application development and deployment
 
-## 💡 Core Competencies
+**📚 Knowledge Sharing:**
+- Technical writing about practical AI implementation
+- Mentoring aspiring data scientists
+- Speaking at conferences and meetups
+- Contributing to open-source AI/ML communities
 
-**System Design**
-- Architecture for scalable ML systems
-- Real-time inference optimization
-- Production monitoring and observability
+**Have an interesting data science challenge or AI project?** Let's connect and build impactful solutions together!
 
-**Model Development**
-- Fine-tuning LLMs for specific tasks
-- Custom NLP model development
-- Time series forecasting and anomaly detection
-
-**Deployment & Operations**
-- Docker containerization and Kubernetes orchestration
-- CI/CD pipelines for ML models
-- Cloud infrastructure setup (AWS, Azure)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoudsabrygamal/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
----
+## 📬 Get In Touch
 
 <div align="center">
-<i>⚡ "Building AI systems that create real-world impact" ⚡</i>
+
+**Open to freelance projects, collaborations, and interesting AI challenges**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoudsabrygamal/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsabryfayed@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201125676030)
+
+**📍 Location:** Giza, Egypt | **⏰ Response Time:** Within 24 hours | **💼 Availability:** Open for projects
+
+---
+
+*"Transforming data into actionable insights and building AI systems that drive real business impact"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
