@@ -14,76 +14,38 @@ I design and build **AI systems that move beyond the notebook**—from agent orc
 
 ## Engineering AI as a system
 
+<details open>
+<summary><strong>System blueprint — from an idea to a reliable AI experience</strong></summary>
+<br>
+
 ```text
-       User need
-           │
-           ▼
-  Product & system design
-           │
-    ┌──────┴──────┐
-    ▼             ▼
-Agent workflows   ML pipelines
-    │             │
-    └──────┬──────┘
-           ▼
- APIs · evaluation · observability
-           │
-           ▼
-    Reliable AI experience
+ ┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐
+ │  Product intent  │ ───► │  AI intelligence │ ───► │  Human outcome   │
+ │  users · context │      │  agents · models │      │  decisions · UX  │
+ └────────┬─────────┘      └────────┬─────────┘      └────────▲─────────┘
+          │                         │                           │
+          ▼                         ▼                           │
+ ┌──────────────────┐      ┌──────────────────┐                 │
+ │  Data contracts  │ ───► │  APIs & services │ ───► Feedback ──┘
+ │  quality · flow  │      │  delivery · scale│
+ └──────────────────┘      └──────────────────┘
+                  │
+                  ▼
+       Evaluation · observability · safeguards
 ```
 
-My work sits at the intersection of **applied AI, machine-learning engineering, and product delivery**. I focus on the decisions that make an AI solution useful: architecture, tool boundaries, data flow, failure handling, evaluation, and clear interfaces.
-
-| I architect | I engineer | I operationalize |
-| --- | --- | --- |
-| Agent graphs, tool-use flows, service boundaries | ML pipelines, APIs, typed contracts, reporting workflows | Experiment tracking, tests, CI, containers, explicit fallbacks |
-
-## Selected systems
-
-<details open>
-<summary><strong>01 · Customer Churn Prediction Platform</strong> — ML service lifecycle</summary>
-<br>
-
-An end-to-end churn system that takes a model through preprocessing, feature engineering, tracked experimentation, and API delivery.
-
-- **Architecture:** reusable transformation pipeline → XGBoost model → FastAPI service
-- **Delivery:** validated single and batch prediction endpoints with typed schemas
-- **Engineering:** MLflow tracking, automated tests, Docker packaging, and CI
-- **Senior lens:** reproducibility and service contracts are treated as part of the model—not afterthoughts
-
-[View repository →](https://github.com/Mahmoudsabry3/customer_churn)
-
 </details>
 
-<details>
-<summary><strong>02 · AI Research Assistant</strong> — orchestrated agent workflow</summary>
-<br>
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>01</strong><br><br><strong>Frame</strong><br>Clarify the decision, users, data, and constraints.</td>
+    <td width="25%" align="center"><strong>02</strong><br><br><strong>Design</strong><br>Define agent graphs, model boundaries, and tool contracts.</td>
+    <td width="25%" align="center"><strong>03</strong><br><br><strong>Deliver</strong><br>Build typed APIs, workflows, and usable product interfaces.</td>
+    <td width="25%" align="center"><strong>04</strong><br><br><strong>Improve</strong><br>Measure quality, handle failure, and evolve with evidence.</td>
+  </tr>
+</table>
 
-A supervisor-worker research system that coordinates web search and synthesis, then delivers the result through multiple interfaces.
-
-- **Architecture:** LangGraph supervisor coordinating specialized LangChain workers
-- **Delivery:** terminal, structured HTML report, and Gradio chat experiences
-- **Engineering:** explicit workflow state and separation between orchestration and presentation
-- **Senior lens:** agents are bounded components in a controlled graph, not an unstructured prompt chain
-
-[View repository →](https://github.com/Mahmoudsabry3/ai-research-assistant)
-
-</details>
-
-<details>
-<summary><strong>03 · Multi-Agent Market Intelligence</strong> — resilient analysis pipeline</summary>
-<br>
-
-A staged intelligence workflow that converts a research question into collected evidence, analysis, and Markdown/PDF reporting.
-
-- **Architecture:** query understanding → data collection → analysis → report generation
-- **Integrations:** external financial, news, and search data sources
-- **Engineering:** clear stage boundaries and visible simulated fallbacks when live sources are unavailable
-- **Senior lens:** degraded behavior is explicit, keeping generated evidence understandable and auditable
-
-[View repository →](https://github.com/Mahmoudsabry3/market-intelligence-system)
-
-</details>
+I work where **applied AI, machine-learning engineering, and product delivery** meet. The focus is not merely a model or an agent—it is the complete system: clear boundaries, dependable data flow, useful interfaces, and visible failure modes.
 
 ## Technical depth
 
