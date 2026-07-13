@@ -72,6 +72,18 @@ senior_ai_engineering = {
 }
 ```
 
+## Activity in motion
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoudsabry3/Mahmoudsabry3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoudsabry3/Mahmoudsabry3/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Mahmoudsabry3/Mahmoudsabry3/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
 ## How I think about AI engineering
 
 - **Architecture before complexity** — choose clear boundaries before adding agents or tools.
