@@ -1,102 +1,61 @@
-<div align="center">
+<!-- Profile README — goes in repo Mahmoudsabry3/Mahmoudsabry3 as README.md -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1220,45:172554,100:22C55E&text=Mahmoud%20Sabry&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Senior%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,45:172554,100:22C55E&text=Mahmoud%20Sabry&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Senior%20AI%20Engineer&descAlignY=57&descSize=21&animation=fadeIn)
+I design and build **AI systems that move beyond the notebook** — from agent orchestration and evaluation to model serving, observability, and user-facing delivery.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Architecting+agentic+AI+systems;Engineering+reliable+ML+services;Turning+models+into+usable+products)](https://git.io/typing-svg)
-
-I design and build **AI systems that move beyond the notebook**—from agent orchestration and evaluation to model serving, observability, and user-facing delivery.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudsabrygamal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudsabryfayed/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-172554?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mahmoudsabryfayed@outlook.com)
 ![Location](https://img.shields.io/badge/Giza-Egypt-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-</div>
+## ⭐ Featured — [agent-service](https://github.com/Mahmoudsabry3/agent-service)
 
-## Engineering AI as a system
+> **Production-style agent orchestration, end to end.**
+> LangGraph agent graphs · typed FastAPI service · evaluation harness · Docker + CI
 
-<details open>
-<summary><strong>System blueprint — from an idea to a reliable AI experience</strong></summary>
-<br>
+| What it shows | How |
+| --- | --- |
+| Agent design | Tool-calling graph with explicit boundaries and fallbacks |
+| Reliability | Eval suite with pass/fail gates run in CI on every commit |
+| Delivery | One-command `docker compose up`, OpenAPI docs, structured logs |
 
-```text
- ┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐
- │  Product intent  │ ───► │  AI intelligence │ ───► │  Human outcome   │
- │  users · context │      │  agents · models │      │  decisions · UX  │
- └────────┬─────────┘      └────────┬─────────┘      └────────▲─────────┘
-          │                         │                           │
-          ▼                         ▼                           │
- ┌──────────────────┐      ┌──────────────────┐                 │
- │  Data contracts  │ ───► │  APIs & services │ ───► Feedback ──┘
- │  quality · flow  │      │  delivery · scale│
- └──────────────────┘      └──────────────────┘
-                  │
-                  ▼
-       Evaluation · observability · safeguards
-```
+<!-- TODO: add a 20-second demo GIF and a results table from the eval run -->
 
-</details>
+## How I work
 
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>01</strong><br><br><strong>Frame</strong><br>Clarify the decision, users, data, and constraints.</td>
-    <td width="25%" align="center"><strong>02</strong><br><br><strong>Design</strong><br>Define agent graphs, model boundaries, and tool contracts.</td>
-    <td width="25%" align="center"><strong>03</strong><br><br><strong>Deliver</strong><br>Build typed APIs, workflows, and usable product interfaces.</td>
-    <td width="25%" align="center"><strong>04</strong><br><br><strong>Improve</strong><br>Measure quality, handle failure, and evolve with evidence.</td>
-  </tr>
-</table>
-
-I work where **applied AI, machine-learning engineering, and product delivery** meet. The focus is not merely a model or an agent—it is the complete system: clear boundaries, dependable data flow, useful interfaces, and visible failure modes.
+- **Architecture before complexity** — clear boundaries before more agents or tools.
+- **Evaluation before confidence** — generated output needs evidence and visible limits.
+- **Reliability before demos** — validated inputs, designed fallbacks, understandable failures.
+- **Delivery completes the model** — value arrives through a usable, maintainable interface.
 
 ## Technical depth
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=FACC15)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=22C55E)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logo=langchain&logoColor=22C55E)
 ![LangChain](https://img.shields.io/badge/LangChain-0B1220?style=flat-square&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0B1220?style=flat-square&logo=scikitlearn&logoColor=F97316)
-![XGBoost](https://img.shields.io/badge/XGBoost-0B1220?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0B1220?style=flat-square&logo=mlflow&logoColor=38BDF8)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0B1220?style=flat-square&logo=pydantic&logoColor=E92063)
 ![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1220?style=flat-square&logo=githubactions&logoColor=2088FF)
 
-</div>
-
 ```python
 senior_ai_engineering = {
-    "systems": ["agent orchestration", "ML services", "data workflows"],
-    "quality": ["evaluation", "reproducibility", "failure handling"],
+    "systems":  ["agent orchestration", "ML services", "data workflows"],
+    "quality":  ["evaluation", "reproducibility", "failure handling"],
     "delivery": ["APIs", "CI", "containers", "human-friendly interfaces"],
 }
 ```
 
-## Activity in motion
+## Selected work
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoudsabry3/Mahmoudsabry3/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoudsabry3/Mahmoudsabry3/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Mahmoudsabry3/Mahmoudsabry3/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-## How I think about AI engineering
-
-- **Architecture before complexity** — choose clear boundaries before adding agents or tools.
-- **Evaluation before confidence** — generated output needs evidence, checks, and visible limitations.
-- **Reliability before demos** — validate inputs, design fallbacks, and make failure states understandable.
-- **Delivery completes the model** — an AI capability becomes valuable through a usable, maintainable interface.
-
-<div align="center">
+| Repo | What it proves |
+| --- | --- |
+| [agent-service](https://github.com/Mahmoudsabry3/agent-service) | Agentic systems built like software: graphs, evals, CI |
+| [rag-evals](https://github.com/Mahmoudsabry3/rag-evals) | Retrieval quality measured, not assumed |
+| [chat-visualization](https://github.com/Mahmoudsabry3/Chat-visulization) | Turning raw conversation data into readable insight |
+| [Deep-Learning](https://github.com/Mahmoudsabry3/Deep-Learning) | Foundations: CNN/RNN implementations from first principles |
 
 ### Building AI systems that are useful, inspectable, and ready to evolve.
 
-[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-22C55E?style=for-the-badge&logo=linkedin&logoColor=0B1220)](https://www.linkedin.com/in/mahmoudsabrygamal/)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1220,45:172554,100:22C55E)
-
-</div>
+[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-22C55E?style=for-the-badge&logo=linkedin&logoColor=0B1220)](https://www.linkedin.com/in/mahmoudsabryfayed/)
