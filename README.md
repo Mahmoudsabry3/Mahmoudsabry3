@@ -1,61 +1,79 @@
-<!-- Profile README — goes in repo Mahmoudsabry3/Mahmoudsabry3 as README.md -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1220,45:172554,100:22C55E&text=Mahmoud%20Sabry&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Senior%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn)
+<div align="center">
 
-I design and build **AI systems that move beyond the notebook** — from agent orchestration and evaluation to model serving, observability, and user-facing delivery.
+![Header](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1220,45:172554,100:22C55E&text=Mahmoud%20Sabry&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Senior%20AI%20Engineer&descAlignY=56&descSize=20&animation=fadeIn)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudsabryfayed/)
+**Agent systems · ML services · Eval-driven delivery**
+
+I design and build **AI systems that move beyond the notebook** — from multi-agent orchestration and evaluation to model serving, observability, and user-facing delivery.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudsabrygamal/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-172554?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mahmoudsabryfayed@outlook.com)
-![Location](https://img.shields.io/badge/Giza-Egypt-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Giza%2C%20Egypt%20%C2%B7%20Open%20to%20remote-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-## ⭐ Featured — [agent-service](https://github.com/Mahmoudsabry3/agent-service)
+</div>
 
-> **Production-style agent orchestration, end to end.**
-> LangGraph agent graphs · typed FastAPI service · evaluation harness · Docker + CI
+## Flagship — [ai-research-assistant](https://github.com/Mahmoudsabry3/ai-research-assistant)
 
-| What it shows | How |
+> **LangGraph supervisor routing web search and insight research into three delivery surfaces.**
+
+Multi-agent research pipeline with tool calling, local persistence, optional LangSmith tracing, and HTML / Gradio / terminal interfaces.
+
+```text
+Research question → LangGraph supervisor → Web Searcher | Insight Researcher
+                  → synthesized answer → HTML report · Gradio chat · terminal export
+```
+
+| System | Detail |
 | --- | --- |
-| Agent design | Tool-calling graph with explicit boundaries and fallbacks |
-| Reliability | Eval suite with pass/fail gates run in CI on every commit |
-| Delivery | One-command `docker compose up`, OpenAPI docs, structured logs |
+| Orchestration | Supervisor state graph with explicit `FINISH` routing and specialist hand-offs |
+| Agent roles | `Web_Searcher` and `Insight_Researcher` with distinct prompts and shared tools |
+| Tools | DuckDuckGo search, HTTP retrieval, Beautiful Soup extraction |
+| Interfaces | `./research.sh "question"` · `./research.sh chat` · `./research.sh simple-chat` |
+| Observability | Optional LangSmith tracing via `LANGCHAIN_TRACING_V2` |
+| Run locally | `python -m venv .venv && pip install -r requirements.txt && cp .env.example .env` |
 
-<!-- TODO: add a 20-second demo GIF and a results table from the eval run -->
+[**View architecture & quickstart →**](https://github.com/Mahmoudsabry3/ai-research-assistant#architecture)
 
-## How I work
+## Other production-style work
 
-- **Architecture before complexity** — clear boundaries before more agents or tools.
-- **Evaluation before confidence** — generated output needs evidence and visible limits.
+| Project | What it proves | Proof |
+| --- | --- | --- |
+| [**market-intelligence-system**](https://github.com/Mahmoudsabry3/market-intelligence-system) | Four-stage agent pipeline: query understanding → data collection → analysis → report generation | Hybrid live/demo fallbacks, Markdown + PDF/HTML export |
+| [**customer_churn**](https://github.com/Mahmoudsabry3/customer_churn) | End-to-end ML service: feature engineering → XGBoost → MLflow → FastAPI | **ROC AUC 0.91** · Accuracy 0.89 · F1 0.74 (5-fold OOF eval) |
+
+![Market intelligence report preview](https://github.com/user-attachments/assets/2fe21405-deb7-40f1-87ad-63612585ca27)
+
+## How I build AI systems
+
+- **Architecture before complexity** — clear agent boundaries and contracts before adding more tools.
+- **Evaluation before confidence** — generated output needs measurable checks and visible limits.
 - **Reliability before demos** — validated inputs, designed fallbacks, understandable failures.
-- **Delivery completes the model** — value arrives through a usable, maintainable interface.
+- **Delivery completes the model** — value ships through APIs, containers, and interfaces people can use.
 
-## Technical depth
+## Stack
 
+**Agents & LLM**  
 ![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=FACC15)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=22C55E)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0B1220?style=flat-square&logo=langchain&logoColor=22C55E)
 ![LangChain](https://img.shields.io/badge/LangChain-0B1220?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0B1220?style=flat-square&logo=openai&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-0B1220?style=flat-square&logo=gradio&logoColor=F97316)
+![LangSmith](https://img.shields.io/badge/LangSmith-0B1220?style=flat-square&logo=langchain&logoColor=38BDF8)
+
+**ML & MLOps**  
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=22C55E)
+![XGBoost](https://img.shields.io/badge/XGBoost-0B1220?style=flat-square&logo=xgboost&logoColor=22C55E)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0B1220?style=flat-square&logo=scikitlearn&logoColor=F97316)
 ![MLflow](https://img.shields.io/badge/MLflow-0B1220?style=flat-square&logo=mlflow&logoColor=38BDF8)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0B1220?style=flat-square&logo=pydantic&logoColor=E92063)
+
+**Delivery & quality**  
 ![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1220?style=flat-square&logo=githubactions&logoColor=2088FF)
+![pytest](https://img.shields.io/badge/pytest-0B1220?style=flat-square&logo=pytest&logoColor=FACC15)
 
-```python
-senior_ai_engineering = {
-    "systems":  ["agent orchestration", "ML services", "data workflows"],
-    "quality":  ["evaluation", "reproducibility", "failure handling"],
-    "delivery": ["APIs", "CI", "containers", "human-friendly interfaces"],
-}
-```
-
-## Selected work
-
-| Repo | What it proves |
-| --- | --- |
-| [agent-service](https://github.com/Mahmoudsabry3/agent-service) | Agentic systems built like software: graphs, evals, CI |
-| [rag-evals](https://github.com/Mahmoudsabry3/rag-evals) | Retrieval quality measured, not assumed |
-| [chat-visualization](https://github.com/Mahmoudsabry3/Chat-visulization) | Turning raw conversation data into readable insight |
-| [Deep-Learning](https://github.com/Mahmoudsabry3/Deep-Learning) | Foundations: CNN/RNN implementations from first principles |
+---
 
 ### Building AI systems that are useful, inspectable, and ready to evolve.
 
-[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-22C55E?style=for-the-badge&logo=linkedin&logoColor=0B1220)](https://www.linkedin.com/in/mahmoudsabryfayed/)
+[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-22C55E?style=for-the-badge&logo=linkedin&logoColor=0B1220)](https://www.linkedin.com/in/mahmoudsabrygamal/)
