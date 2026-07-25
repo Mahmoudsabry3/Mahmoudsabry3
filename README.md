@@ -2,7 +2,7 @@
 
 I build **production AI systems** — agent orchestration, RAG architectures, enterprise inference pipelines, and the infrastructure that makes them reliable at scale.
 
-Currently at **Ghaia.ai** (remote, Qatar) building **multi-agent LLM systems** that automate enterprise decision-making. Before that, I shipped production generative-AI products at **PYGi** and **Unilever**, and own the full ML lifecycle from prototype through deployment.
+Currently at **Ghaia.ai** (remote, Qatar) building **multi-agent LLM systems** that automate enterprise decision-making. Before that, I shipped production generative-AI products at **PYGIO** and **Unilever**, and own the full ML lifecycle from prototype through deployment.
 
 I think in systems, not features. I care about observability, measurable evaluation, and shipping things that actually work.
 
@@ -33,7 +33,7 @@ Four-stage agent system: query understanding → data collection → competitive
 End-to-end ML service: feature engineering from enterprise datasets → XGBoost training → model deployment via FastAPI. ROC AUC 0.91, accuracy 0.89. Shipped predictive models supporting promotional spend optimization ("AI Promo Genius"). **1st place, DigiChallenge 2024** (internal hackathon for enterprise generative-AI product).
 
 **LLM-Powered Data Delivery**  
-At **PYGi**, built technical delivery of data-intensive and LLM-powered solutions across multiple client environments—bridging traditional ML and generative AI. Engineered optimized inference pipelines for scalability and execution velocity.
+At **PYGIO**, built technical delivery of data-intensive and LLM-powered solutions across multiple client environments—bridging traditional ML and generative AI. Engineered optimized inference pipelines for scalability and execution velocity.
 
 **Data Enrichment & Validation**  
 Designed pipelines combining enterprise APIs and LLMs to clean, enrich, and verify production data. Deployed at scale with measurable quality metrics.
